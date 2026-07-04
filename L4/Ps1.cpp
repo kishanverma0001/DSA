@@ -1,4 +1,4 @@
-// print e largest of two numbers
+// print largest of two numbers
 
 #include<iostream>
 using namespace std;
